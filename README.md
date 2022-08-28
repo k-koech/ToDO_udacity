@@ -1,5 +1,6 @@
 # Serverless TODO
-
+### Kelvin Kipchumba Koech
+### koechkelvin97@gmail.com / +254725 801 772
 A simple TODO application using AWS Lambda and Serverless framework, for the final project of the Udacity Cloud Developer Nanodegree.
 
 ## Functionality of the application
